@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(189, 126, 44, 0.39);
+}
+
+.number1 {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 10px 20PX;
+}
+.number1 ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    text-decoration: none;
+    color: rgb(24, 23, 23);
+    height: 40px;
+    display: flex;
+    
+}
+
+
+
+
+
+    
+
+

@@ -1,0 +1,22 @@
+button {
+    background-color: #db93c5; /* Green */
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 12px;
+    margin-left: 1099px;
+    
+    
+      
+}
+.hero nav ul{
+    display: flex;
+    justify-content: space-between;
+background-color: #fc86cd91;
+   padding: 20px;
+}
+.hero nav ul li a{
+    text-decoration: none;
+    color: rgb(15, 14, 14);
+    font-weight: bold;
+}
+
